@@ -21,3 +21,7 @@ It's also possible to rename the file and move it like this example:
 ```rename ~/Documents/example.txt /bin/newname.mp4```
 
 You will be able to change the file extension too.
+
+The same principle applies to ```renamedir {args1} {args2}```.
+
+## Filenames can contain spaces!
