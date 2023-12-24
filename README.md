@@ -7,7 +7,8 @@
 After that you can open your terminal and just enter rename.
 
 # Usage
-Inside the terminal you can enter: rename {arg1} {arg2} with arg1 being the file and arg2 being the new filename
+Inside the terminal you can enter: ```rename {arg1} {arg2}```
+with arg1 being the file and arg2 being the new filename
 
 this is just a little script running 2 basic commands:
 - ```cp {arg1} {arg2}```
