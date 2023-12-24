@@ -22,6 +22,6 @@ It's also possible to rename the file and move it like this example:
 
 You will be able to change the file extension too.
 
-The same principle applies to ```renamedir {args1} {args2}```.
+The same principle applies to ```renamedir {arg1} {arg2}```.
 
 ## Filenames can contain spaces!
