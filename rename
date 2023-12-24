@@ -1,0 +1,5 @@
+cp $1 $2
+rm $1
+
+echo Changed filename from $1 to $2
+exit
