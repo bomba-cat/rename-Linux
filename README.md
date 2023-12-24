@@ -3,6 +3,7 @@
 - ```git clone https://github.com/xk-rl/rename-Linux```
 - ```cd rename-Linux```
 - ```sudo cp rename /bin```
+- ```sudo cp renamedir /bin```
 
 After that you can open your terminal and just enter rename.
 
