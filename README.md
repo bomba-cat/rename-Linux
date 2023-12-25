@@ -2,6 +2,8 @@
 - ```Install git```
 - ```git clone https://github.com/xk-rl/rename-Linux```
 - ```cd rename-Linux```
+- ```chmod +x rename```
+- ```chmod +x renamedir```
 - ```sudo cp rename /bin```
 - ```sudo cp renamedir /bin```
 
